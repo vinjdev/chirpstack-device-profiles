@@ -1,6 +1,6 @@
 [device]
 id = "4abb1fff-f1d7-4954-bc0e-1bcaadd58e9f"
-name = "Milesight EM400-tld"
+name = "Milesight EM400-TLD"
 description = "ToF Laser Distance Sensor"
 
 [[device.firmware]]
