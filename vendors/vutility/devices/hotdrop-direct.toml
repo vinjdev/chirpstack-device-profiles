@@ -1,0 +1,13 @@
+[device]
+id = "c48fc025-a9dd-4674-9e01-3257636d21fc"
+name = "Hotdrop Direct"
+description = "Non-invasive AC current sensor with amp-hour accumulation"
+
+[[device.firmware]]
+version = "1.0"
+profiles = ["EU868-1_0_3.toml"]
+codec = "hotdrop-direct.js"
+
+[device.metadata]
+product_url = "https://vutility.com/products/hotdrop"
+documentation_url = "https://vutility.com/products/hotdrop"

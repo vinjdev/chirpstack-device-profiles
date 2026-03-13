@@ -1,0 +1,11 @@
+[vendor]
+id = "89313a2b-ca79-4089-9387-6ceca00ab4f8"
+name = "Vutility"
+vendor_id = 0
+ouis = []
+devices = [
+    "hotdrop-direct.toml",
+]
+
+[vendor.metadata]
+homepage = "https://vutility.com"
