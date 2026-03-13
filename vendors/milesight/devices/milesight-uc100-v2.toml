@@ -1,0 +1,13 @@
+[device]
+id = "560a9507-0791-43aa-800c-4c007027a0be"
+name = "Milesight UC100-V2"
+description = "Modbus to LoRaWAN Converter"
+
+[[device.firmware]]
+version = "1.0.0"
+profiles = ["EU868-1_0_3.toml"]
+codec = "uc100-v2.js"
+
+[device.metadata]
+product_url = "https://www.milesight.com/iot/product/iot-controller/uc100"
+documentation_url = "https://www.milesight.com/iot/product/iot-controller/uc100"
