@@ -1,6 +1,6 @@
 [device]
 id = "d4304f90-afbb-4d01-902d-2ad73143fe87"
-name = "Milesight C101"
+name = "Milesight CT101"
 description = "Smart Current Transformer"
 
 [[device.firmware]]
