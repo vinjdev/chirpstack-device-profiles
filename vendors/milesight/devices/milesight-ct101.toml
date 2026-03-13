@@ -1,6 +1,6 @@
 [device]
 id = "d4304f90-afbb-4d01-902d-2ad73143fe87"
-name = "milesight-ct101"
+name = "Milesight C101"
 description = "Smart Current Transformer"
 
 [[device.firmware]]
@@ -10,3 +10,4 @@ codec = "ct101.js"
 
 [device.metadata]
 product_url = "https://www.milesight.com/iot/product/lorawan-sensor/ct10x"
+documentation_url = "https://www.milesight.com/iot/product/lorawan-sensor/ct10x"
