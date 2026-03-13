@@ -1,0 +1,13 @@
+[device]
+id = "4abb1fff-f1d7-4954-bc0e-1bcaadd58e9f"
+name = "Milesight EM400-tld"
+description = "ToF Laser Distance Sensor"
+
+[[device.firmware]]
+version = "1.0.0"
+profiles = ["EU868-1_0_3.toml"]
+codec = "em400-tld.js"
+
+[device.metadata]
+product_url = "https://www.milesight.com/iot/product/lorawan-sensor/em400-tld"
+documentation_url = "https://www.milesight.com/iot/product/lorawan-sensor/em400-tld"
