@@ -3,6 +3,10 @@ id = "d7dbdd24-766b-4d7e-a7ab-add4c9ef85b0"
 name = "Milesight"
 vendor_id = 601
 ouis = ["24e124"]
+devices = [
+    "milesight-ct101.toml",
+]
+
 
 [vendor.metadata]
 homepage = "https://www.milesight.com/"
