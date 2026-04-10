@@ -5,6 +5,7 @@ vendor_id = 601
 ouis = ["24e124"]
 devices = [
     "milesight-ct101.toml",
+    "milesight-uc100-v2.toml",
 ]
 
 
