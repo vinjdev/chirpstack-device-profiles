@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Typical pressure data",
+      "input": {
+        "fPort": 10,                                             
+        "bytes": [19, 33, 0, 15, 8, 99, 11, 71, 63, 129, 49, 225]
+      },                                                         
+      "expected": {                                              
+        "data": {
+          "devtype": {                                           
+            "Platform": "Platform_21",
+            "Sensor": "Pressure",
+            "Wireless": "BLE/LoRaWAN",
+            "Output": "Float",                                   
+            "Unit": "Bar"
+          },                                                     
+          "cnt": 15,
+          "devstat": ["PrelPhase"],
+          "bat": 99,
+          "temp": "28.87",                                       
+          "data": "1.009334683418274"
+        }                                                        
+      }           
+    }
+]

@@ -1,0 +1,13 @@
+[device]
+id = "cd13b7e7-c1de-4beb-b186-88e403f3052b"
+name = "TE 69XX Wireless LoRaWAN Pressure Transducer"
+description = "High accuracy wireless pressure transducer for liquid or gas measurement via LoRaWAN."
+
+[[device.firmware]]
+version = "3.4.4"
+profiles = ["TE6911N-EU868-1_0_3.toml"]
+codec = "TE_universal_decoder.js"
+
+[device.metadata]
+product_url = "https://www.te.com/en/product-CAT-WPT0001.html"
+documentation_url = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=20027955-20&DocType=Data+Sheet&DocLang=English&DocFormat=pdf&PartCntxt=20023435-52"

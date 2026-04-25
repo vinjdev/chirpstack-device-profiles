@@ -1,0 +1,8 @@
+[vendor]
+id = "10d12ece-f8e7-4bf6-b440-45262d0ff179"
+name = "TE connectivity"
+vendor_id = 0
+ouis = []
+
+[vendor.metadata]
+homepage = "https://www.te.com/en/home.html"
